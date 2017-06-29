@@ -1,0 +1,24 @@
+body,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dd,dt,p{
+	margin: 0;
+	padding: 0;
+	box-sizing:border-box;
+}
+ul,ol,li{
+	list-style: none;
+	color: #363e45;
+}
+@font-face{
+	font-family: "思源雅黑";
+	src:url(./../fonts/siyuan.otf);
+}
+body,html{
+	font-family: "微软雅黑";
+}
+a{
+	text-decoration: none;
+	color: #4a5158;
+}
+img{
+	display: block;
+	border: none;
+}
