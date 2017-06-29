@@ -1,4 +1,4 @@
-# fhq
+# vue-dmall SPA
 
 > A Vue.js project
 
